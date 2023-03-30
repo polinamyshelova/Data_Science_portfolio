@@ -1,4 +1,4 @@
-### Data_Science_portfolio
+# Data_Science_portfolio
 
    1. Classifier for insect images by convolutional neural network (CNN). The constructed model was used in the telegram bot.
 
@@ -7,6 +7,8 @@
       Link:
 
       >https://github.com/polinamyshelova/Insect_data_classification
+      
+      ------------------------
 
    2. Data clustering and feature engineering with a method of Fuzzy C Means (FCM).
 
@@ -15,6 +17,8 @@
       Link:
 
       >https://github.com/polinamyshelova/Hotel_Reservations
+      
+      ------------------------
 
    3. Cohort analysis. Retention rate calculation to increase customer loyalty.
 
