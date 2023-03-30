@@ -8,6 +8,6 @@
 
 ![alt text](https://github.com/polinamyshelova/Hotel_Reservations/blob/main/heatmap.png?raw=true)
 
-3. Cohort analysis. Retention rate calculation to increase customet loyalty.
+3. Cohort analysis. Retention rate calculation to increase customer loyalty.
 
 ![alt text](https://github.com/polinamyshelova/Cohort_analysis/blob/main/retention%20rate.jpg?raw=true)
